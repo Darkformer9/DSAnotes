@@ -1,0 +1,14 @@
+The BIG o notation 
+to find only the first element in a big data we use  O  (O)1 this is usually for that element whose index is known by the one who want to get that element
+(O)n is used when you want to find some certain data which as on certain index means if that data is on index 500 then you have to cycle 500times 
+
+(o)n^2 is used when you have to compare a data from some other data then that will take the squre  of that's index(the element on which you are performing the operation...
+
+
+if you are extracting the data and you know where its located in the index then  the complexity would be (o)1
+
+when you push(adding the element in the array on the end) and pop (removing the element from the end) the complexity will (o)1
+
+when  you shift(removing element form the start of the array) and unshift(add  the element on the start
+
+of the array)  the complexity become(O)n
